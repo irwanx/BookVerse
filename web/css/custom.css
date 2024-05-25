@@ -1,0 +1,163 @@
+:root {
+    --color_50: #f0f3fa;
+    --color_100: #d5deef;
+    --color_200: #b1c9ef;
+    --color_300: #8aaee0;
+    --color_400: #638ecb;
+    --color_500: #395886;
+    
+    --color_600: #006da4;
+    --color_700: #006494;
+    --color_800: #004d74;
+    --color_900: #003554;
+    --color_1000: #002b42;
+    --color_1100: #032030;
+}
+
+.bg-color-50 {
+    background-color: var(--color_50);
+}
+
+.hover\:bg-color-50:hover {
+    background-color: var(--color_50);
+}
+
+.text-color-50 {
+    color: var(--color_50);
+}
+
+.bg-color-100 {
+    background-color: var(--color_100);
+}
+
+.hover\:bg-color-100:hover {
+    background-color: var(--color_100);
+}
+
+.text-color-100 {
+    color: var(--color_100);
+}
+
+.bg-color-200 {
+    background-color: var(--color_200);
+}
+
+.hover\:bg-color-200:hover {
+    background-color: var(--color_200);
+}
+
+.text-color-200 {
+    color: var(--color_200);
+}
+
+.bg-color-300 {
+    background-color: var(--color_300);
+}
+
+.hover\:bg-color-300:hover {
+    background-color: var(--color_300);
+}
+
+.text-color-300 {
+    color: var(--color_300);
+}
+
+.bg-color-400 {
+    background-color: var(--color_400);
+}
+
+.hover\:bg-color-400:hover {
+    background-color: var(--color_400);
+}
+
+.text-color-400 {
+    color: var(--color_400);
+}
+
+.bg-color-500 {
+    background-color: var(--color_500);
+}
+
+.hover\:bg-color-400:hover {
+    background-color: var(--color_400);
+}
+
+.text-color-500 {
+    color: var(--color_500);
+}
+
+.bg-color-600 {
+    background-color: var(--color_600);
+}
+
+.hover\:bg-color-600:hover {
+    background-color: var(--color_600);
+}
+
+.text-color-600 {
+    color: var(--color_600);
+}
+
+.bg-color-700 {
+    background-color: var(--color_700);
+}
+
+.hover\:bg-color-700:hover {
+    background-color: var(--color_700);
+}
+
+.table-tripped-color-800:nth-child(even) {
+    background-color: var(--color_800);
+}
+
+.text-color-700 {
+    color: var(--color_700);
+}
+
+.bg-color-800 {
+    background-color: var(--color_800);
+}
+
+.hover\:bg-color-800:hover {
+    background-color: var(--color_800);
+}
+
+.text-color-800 {
+    color: var(--color_800);
+}
+
+.bg-color-900 {
+    background-color: var(--color_900);
+}
+
+.hover\:bg-color-900:hover {
+    background-color: var(--color_900);
+}
+
+.text-color-900 {
+    color: var(--color_900);
+}
+
+.bg-color-1000 {
+    background-color: var(--color_1000);
+}
+
+.hover\:bg-color-1000:hover {
+    background-color: var(--color_1000);
+}
+
+.text-color-1000 {
+    color: var(--color_1000);
+}
+
+.bg-color-1100 {
+    background-color: var(--color_1100);
+}
+
+.hover\:bg-color-1100:hover {
+    background-color: var(--color_1100);
+}
+
+.text-color-1100 {
+    color: var(--color_1100);
+}
